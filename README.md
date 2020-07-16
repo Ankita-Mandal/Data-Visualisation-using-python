@@ -1,5 +1,5 @@
 # Data-Visualisation-using-python
-Data Visualisation of a Student Performance dataset using matplotlib and seaborn python libraries.\
+Data Visualisation of a Student Performance dataset using matplotlib and seaborn python libraries.
 
 # Objectives of the Project:
 - Understand how the student's performance (test scores) is affected by the other variables (Gender, Ethnicity, Parental level of education, Lunch, Test preparation course)
